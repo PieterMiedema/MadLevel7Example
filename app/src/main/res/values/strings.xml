@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mad Level 7 Eample</string>
+    <string name="welcome">Welcome to the Quiz MAker. Please create a question before starting the quiz.</string>
+    <string name="create_quiz">CREATE QUIZ</string>
+    <string name="start_quiz">START QUIZ</string>
+    <string name="create_quiz_here">Create your quiz here</string>
+    <string name="question">Question</string>
+    <string name="answer">Answer</string>
+    <string name="create">CREATE</string>
+
+    <string name="tv_question_1">How many hours should you game a day?</string>
+    <string name="et_answer_of_question_1">Answer</string>
+    <string name="bt_confirm_answer">Confirm answer</string>
+
+    <string name="successfully_created_quiz">Quiz was successfully created!</string>
+</resources>
